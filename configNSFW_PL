@@ -62,6 +62,7 @@
     pchajkurwayolo = push --force
     sorrykurwa = commit --amend -m
     spierdolwszystko = merge
+    pierdoliszkurwa = rebase
     
     cofnijwchuj = reset HEAD~100
     wypierdolwchuj = reset HEAD~100 --hard
